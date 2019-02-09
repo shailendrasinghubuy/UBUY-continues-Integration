@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52268" started-at="2019-02-09T13:16:30Z" finished-at="2019-02-09T13:17:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52268" started-at="2019-02-09T13:16:30Z" finished-at="2019-02-09T13:17:22Z">
+      <class name="ci.Continues_Integration">
+        <test-method status="PASS" signature="tc01LaunchURL()[pri:0, instance:ci.Continues_Integration@50ad3bc1]" name="tc01LaunchURL" duration-ms="6239" started-at="2019-02-09T13:16:30Z" finished-at="2019-02-09T13:16:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01LaunchURL -->
+        <test-method status="PASS" signature="tc02SearchProducts()[pri:0, instance:ci.Continues_Integration@50ad3bc1]" name="tc02SearchProducts" duration-ms="7659" started-at="2019-02-09T13:16:36Z" finished-at="2019-02-09T13:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02SearchProducts -->
+        <test-method status="PASS" signature="tc03SelecthProducts()[pri:0, instance:ci.Continues_Integration@50ad3bc1]" name="tc03SelecthProducts" duration-ms="2445" started-at="2019-02-09T13:16:44Z" finished-at="2019-02-09T13:16:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03SelecthProducts -->
+        <test-method status="PASS" signature="tc04AddToCart()[pri:0, instance:ci.Continues_Integration@50ad3bc1]" name="tc04AddToCart" duration-ms="21149" started-at="2019-02-09T13:16:46Z" finished-at="2019-02-09T13:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04AddToCart -->
+        <test-method status="PASS" signature="tc05ProceedToCheckout()[pri:0, instance:ci.Continues_Integration@50ad3bc1]" name="tc05ProceedToCheckout" duration-ms="14735" started-at="2019-02-09T13:17:07Z" finished-at="2019-02-09T13:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05ProceedToCheckout -->
+      </class> <!-- ci.Continues_Integration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
